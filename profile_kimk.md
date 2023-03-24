@@ -2,7 +2,7 @@
 - Student ID: 20202022 
 - Major (1): Economics
 - Major (2): Data Science
-- Year of born: 2000
+- Year of born: 2002
 - RC: Son Yang Won
 - Gender: M
 - Nationality: Korea 
