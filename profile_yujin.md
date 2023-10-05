@@ -1,0 +1,8 @@
+- Name: Yujin Kim
+- Student ID: 22100163
+- Major (1): Life Science
+- Major (2): AI
+- Year of born: 2002
+- RC: Kuyper
+- Gender: Female
+- Nationality: Korean
