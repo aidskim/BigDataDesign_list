@@ -1,0 +1,8 @@
+- Name: Chungho Park  
+- Student ID: 21600313  
+- Major (1): Communication Art  
+- Major (2): Data Science  
+- Year of born: 1997  
+- RC: Sonyangone  
+- Gender: Male  
+- Nationality: Korean  
